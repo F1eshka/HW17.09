@@ -1,0 +1,3 @@
+﻿  дз17.09.cpp
+C:\Users\Rog\source\repos\дз17.09\дз17.09.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  дз17.09.vcxproj -> C:\Users\Rog\source\repos\дз17.09\x64\Debug\дз17.09.exe
